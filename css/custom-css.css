@@ -10639,4 +10639,8 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
+
+.nav-link {
+  margin-left: auto;
+}
 /*# sourceMappingURL=custom-css.css.map */
